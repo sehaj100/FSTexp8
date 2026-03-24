@@ -78,6 +78,9 @@ A DELETE request is used to remove a record from the database. For example:
 
 The specified record is deleted permanently from the database.
 
+![MySQL Setup](./6_delete.png)
+
+
 ---
 
 ## Key Takeaways
