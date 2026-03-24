@@ -70,6 +70,9 @@ A PUT request is used to update existing records. For example:
 
 A JSON payload with updated values is sent, and the corresponding record is modified in the database.
 
+![MySQL Setup](./7_put.png)
+
+
 ---
 
 ### 7. Deleting Data with DELETE Requests (Delete)
